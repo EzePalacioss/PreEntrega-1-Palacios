@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(47, 43, 43, 0.403);
+}
+
+.navList{
+display: flex;
+justify-content: center;
+}
+
+.navItem{
+    list-style: none;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(30, 30, 108)
+}
