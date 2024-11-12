@@ -1,0 +1,44 @@
+.hero-products{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.hero-container{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.hero-img{
+    height: 300px;
+    width: 100%;
+}
+
+.hero-details{
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #3483FA;
+}
+
+.hero-details a{
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffff;
+    letter-spacing: 2px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+
+
+.info-container{
+    text-align: center;
+    margin-top: 10px;
+}
